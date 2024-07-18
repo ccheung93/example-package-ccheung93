@@ -8,6 +8,22 @@ version = "0.1.0"
 dependencies = [
   "numpy"
 ]
+authors = [
+  { name="Charles Cheung", email="ccheung@udel.edu"}
+]
+description = "a small test package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent", 
+  "Private :: Do Not Upload",
+]
 
 [project.optional-dependencies]
 test = ["pytest"]
+
+[project.urls]
+"Homepage" = "https://ccheung93.github.io/example-package-ccheung93"
+"Source Code" = "https://github.com/ccheung93/example-package-ccheung93"
