@@ -25,5 +25,5 @@ classifiers = [
 test = ["pytest"]
 
 [project.urls]
-"Homepage" = "https://ccheung93.github.io/example-package-ccheung93"
+"Home-page" = "https://ccheung93.github.io/example-package-ccheung93"
 "Source Code" = "https://github.com/ccheung93/example-package-ccheung93"
